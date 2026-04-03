@@ -1,48 +1,83 @@
-# Hi 👋, I'm Chethan Gowda S
-### A passionate Full Stack Developer from India 🇮🇳
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=CHETHAN%20GOWDA&fontSize=80&animation=fadeIn&fontColor=ffffff" />
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=csgoowda&label=Profile%20views&color=0e75b6&style=flat" alt="csgoowda" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=✨+Transforming+Logic+into+Experiences+✨;🚀+Full+Stack+UI+Developer;📐+Mechanical+Precision+Logic" alt="Typing SVG" />
 
-- 🎓 Pursuing **B.E. in Information Science** @ SJCE (JSS STU)
-- ⚙️ Background in **Mechanical Engineering** (Diploma)
-- 💻 Currently building the **[Arunodhaya Cafe Digital Suite](https://github.com/csgoowda/arunodhaya)**
-- 🚀 Learning **DevOps, Cloud Computing, and System Design**
-- ✍️ Former **Taluk President** @ Kannada Sahithya Parishath (Student Wing)
-- 📫 Reach out to me: **[Add Your Email Here]**
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full%20Stack-Developer-059669?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UI%2FUX-Designer-2563eb?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Freelance-Available-7c3aed?style=for-the-badge" />
+  </p>
+</div>
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+###  The Design Perspective
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=850&lines=I+don't+just+write+code—I+architect+systems.;Engineering+precision+meets+modern+aesthetics.;Crafting+pixel-perfect+user+interfaces." />
 </p>
+
+> As an **Information Science Engineer** with a foundation in **Mechanical Design**, I bridge the gap between engineering structural integrity and modern aesthetic elegance. I focus on clean typography, intuitive layouts, and high-performance backend logic.
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight" alt="csgoowda" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgoowda&layout=compact&theme=tokyonight" alt="csgoowda" />
-</p>
+###  Creative Toolkit
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>🎨 FRONTEND</b></td>
+      <td align="center" width="33%"><b>⚙️ BACKEND</b></td>
+      <td align="center" width="33%"><b>🛠️ SYSTEMS</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### ☕ Support:
-<p align="left">
-  <a href="https://www.buymeacoffee.com/csgoowda">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+###  Analytics & Workflow
+
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csgoowda&theme=tokyonight&hide_border=false&border_radius=10&stroke=38BDF8&ring=059669&fire=059669&currStreakLabel=ffffff&sideNums=ffffff&bg_color=0D1117" width="92%" />
+</div>
+
+---
+
+###  Let's Build Something Unique
+<div align="center">
+  <a href="https://linkedin.com/in/chethan-gowda-s">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Inquiry-059669?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&fontColor=0ea5e9" />
+</div>
