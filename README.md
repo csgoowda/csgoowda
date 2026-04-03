@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=✨+Transforming+Logic+into+Experiences+✨;🚀+Full+Stack+UI+Developer;📐+Mechanical+Precision+Logic" alt="Typing SVG" />
 
   <p align="center">
+    <a href="https://csgoowda.github.io/chethan-portfolio/">
+      <img src="https://img.shields.io/badge/Main_Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <a href="https://csgoowda.github.io/creator-portfolio/">
+      <img src="https://img.shields.io/badge/Creator_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
     <img src="https://img.shields.io/badge/Full%20Stack-Developer-059669?style=for-the-badge" />
     <img src="https://img.shields.io/badge/UI%2FUX-Designer-2563eb?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Freelance-Available-7c3aed?style=for-the-badge" />
@@ -12,7 +21,7 @@
 
 ---
 
-###  The Design Perspective
+### 🟢 The Design Perspective
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=850&lines=I+don't+just+write+code—I+architect+systems.;Engineering+precision+meets+modern+aesthetics.;Crafting+pixel-perfect+user+interfaces." />
 </p>
@@ -21,7 +30,7 @@
 
 ---
 
-###  Creative Toolkit
+### 🚀 Creative Toolkit
 <div align="center">
   <table>
     <tr>
@@ -54,7 +63,7 @@
 
 ---
 
-###  Analytics & Workflow
+### 📈 Analytics & Workflow
 
 
 <br />
@@ -65,7 +74,7 @@
 
 ---
 
-###  Let's Build Something Unique
+### 🤝 Let's Build Something Unique
 <div align="center">
   <a href="https://linkedin.com/in/chethan-gowda-s">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin" />
