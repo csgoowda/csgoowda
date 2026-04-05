@@ -84,8 +84,6 @@
 ###  Analytics & Workflow
 <div align="center">
 
-<img src="https://github-readme-stats-pi-ten-8ceaabjx48.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&v=20250405" width="92%" />
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=true&radius=12&v=20250405" width="92%" />
