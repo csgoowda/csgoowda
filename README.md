@@ -92,7 +92,7 @@
 <br><br>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=csgoowda&theme=tokyonight&hide_border=true&border_radius=12" width="92%" />
+<img src="https://streak-stats.demolab.com?user=csgoowda&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1" width="92%" />
 
 <br><br>
 
