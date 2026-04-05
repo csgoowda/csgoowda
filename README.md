@@ -84,20 +84,22 @@
 ###  Analytics & Workflow
 
 
+
+
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats-pi-ten-8ceaabjx48.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="92%" />
+<img src="https://github-readme-stats-pi-ten-8ceaabjx48.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&v=5" width="92%" />
 
 <br><br>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=csgoowda&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1" width="92%" />
+<img src="https://streak-stats.demolab.com?user=csgoowda&theme=tokyonight&hide_border=true&border_radius=12&v=5" width="92%" />
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=true&radius=12" width="92%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=true&radius=12&v=5" width="92%" />
 
 </div>
 ---
