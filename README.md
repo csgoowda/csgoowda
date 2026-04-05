@@ -83,10 +83,22 @@
 
 ###  Analytics & Workflow
 
-<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csgoowda&theme=tokyonight&hide_border=false&border_radius=10&stroke=38BDF8&ring=059669&fire=059669&currStreakLabel=ffffff&sideNums=ffffff&bg_color=0D1117" width="92%" />
+
+<!-- Contribution Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=3600" width="92%" />
+
+<br><br>
+
+<!-- Streak Stats (Fixed with Cache Refresh) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=csgoowda&theme=tokyonight&hide_border=false&border_radius=10&stroke=38BDF8&ring=059669&fire=059669&currStreakLabel=ffffff&sideNums=ffffff&bg_color=0D1117&cache_seconds=3600" width="92%" />
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=false&radius=10" width="92%" />
+
 </div>
 
 ---
