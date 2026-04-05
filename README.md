@@ -86,21 +86,20 @@
 
 <div align="center">
 
-<!-- Contribution Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=3600" width="92%" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-pi-ten-8ceaabjx48.vercel.app/api?username=csgoowda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="92%" />
 
 <br><br>
 
-<!-- Streak Stats (Fixed with Cache Refresh) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=csgoowda&theme=tokyonight&hide_border=false&border_radius=10&stroke=38BDF8&ring=059669&fire=059669&currStreakLabel=ffffff&sideNums=ffffff&bg_color=0D1117&cache_seconds=3600" width="92%" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=csgoowda&theme=tokyonight&hide_border=true&border_radius=12" width="92%" />
 
 <br><br>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=false&radius=10" width="92%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=csgoowda&theme=tokyo-night&hide_border=true&radius=12" width="92%" />
 
 </div>
-
 ---
 
 ###  Let's Build Something Unique
