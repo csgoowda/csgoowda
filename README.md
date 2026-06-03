@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=34d399&center=true&vCenter=true&width=500&lines=Information+Science+Engineer;Full+Stack+Developer;Problem+Solver+%7C+System+Designer" />
   </p>
 
-  **📍 Mandya, Karnataka | 🎓 ISE Student @ JSS University**
+  **📍 Mysuru, Karnataka | 🎓 ISE Student @ JSS University**
   
   [![Email](https://img.shields.io/badge/Email-chethangowda809%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:chethangowda809@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChethanGowda-10b981?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chethan-gowda-s)
