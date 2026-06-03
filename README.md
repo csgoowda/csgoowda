@@ -56,8 +56,6 @@ Core CS       ▓▓▓▓▓▓▓▓▓░  DSA | OOP | DBMS | OS | CN
 ## 🎓 **Education**
 
 - **B.E. Information Science Engineering** — JSS Science & Technology University (2024-2027)
-- **Diploma in IT** — GTTC, Maddur (2020-2023)  
-- **SSLC** — GHPS Valageredhoddi (2019-2020)
 
 ---
 
