@@ -85,14 +85,17 @@
 
 ---
 
-## **Professional Experience**
+## Professional Experience
 
-### **In-plant Trainee, Process Design** @ Sansera Engineering, Bengaluru
-- Worked in the Process Design department of an industrial plant
-- Observed production workflows, machines and process planning
-- Gained the manufacturing context behind my scheduling projects
+### In-Plant Trainee — Process Design
+**Sansera Engineering** · Bengaluru, Karnataka
 
----
+- Gained practical exposure to industrial manufacturing and process design operations.
+- Observed production workflows, machinery and manufacturing processes.
+- Developed an understanding of process planning, production operations and resource utilization.
+- Connected real-world manufacturing challenges with software-based scheduling and optimization solutions.
+
+
 
 ## **Featured Projects**
 
