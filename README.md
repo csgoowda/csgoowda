@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+OR-Tools;Industrial+Software+%2B+AI+Integration" />
   </p>
 
-  <p align="center"><b> Mysuru, Karnataka |  ISE Student @ JSS University</b></p>
+  <p align="center"><b>Mysuru, Karnataka | ISE Student @ JSS University</b></p>
 
   <p align="center">
     <a href="mailto:chethangowda809@gmail.com"><img src="https://img.shields.io/badge/Email-chethangowda809%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 ---
 
-##  **Technical Arsenal**
+## **Technical Arsenal**
 
 ```
 Languages     ▓▓▓▓▓▓▓▓░░  Python | SQL | Java | C++
@@ -31,7 +31,7 @@ Learning      ▓▓░░░░░░░░  Docker | CI | JWT | LLM APIs | RAG
 
 ---
 
-##  **Professional Experience**
+## **Professional Experience**
 
 ### **In-plant Trainee, Process Design** @ Sansera Engineering, Bengaluru
 - Worked in the Process Design department of an industrial plant
@@ -57,6 +57,12 @@ Learning      ▓▓░░░░░░░░  Docker | CI | JWT | LLM APIs | RAG
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/csgoowda/csgoowda/output/github-snake.svg" width="100%" alt="Contribution snake" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=csgoowda&color=10b981&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Currently_Building-OptimalTaskPlanner-10b981?style=flat-square" alt="Currently building" />
   <img src="https://img.shields.io/badge/Open_To-Backend_Trainee_Roles-34d399?style=flat-square" alt="Open to work" />
@@ -65,5 +71,5 @@ Learning      ▓▓░░░░░░░░  Docker | CI | JWT | LLM APIs | RAG
 ---
 
 <div align="center">
-  <em> Transforming complex problems into elegant solutions</em>
+  <em>Transforming complex problems into elegant solutions</em>
 </div>
