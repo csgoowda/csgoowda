@@ -17,17 +17,71 @@
 
 ---
 
-## **Technical Arsenal**
 
-```
-Languages     ▓▓▓▓▓▓▓▓░░  Python | SQL | Java | C++
-Backend       ▓▓▓▓▓▓░░░░  FastAPI | SQLAlchemy | Alembic | Pytest
-Databases     ▓▓▓▓▓▓░░░░  PostgreSQL
-Optimization  ▓▓▓▓▓░░░░░  Google OR-Tools (CP-SAT)
-Tools         ▓▓▓▓▓▓▓░░░  Git | GitHub | VS Code | Postman
-Core CS       ▓▓▓▓▓▓▓▓░░  DSA | OOP | DBMS | OS | CN
-Learning      ▓▓░░░░░░░░  Docker | CI | JWT | LLM APIs | RAG
-```
+##  Technical Arsenal
+
+<table>
+<tr>
+<td width="160"><b> Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b> Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alembic-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b> Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b> Optimization</b></td>
+<td>
+<img src="https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/CP--SAT-10B981?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>🔧 Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b> Core CS</b></td>
+<td>
+<img src="https://img.shields.io/badge/DSA-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/OS-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/CN-10B981?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b> Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-8E44AD?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 ---
 
