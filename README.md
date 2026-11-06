@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="mailto:chethangowda809@gmail.com"><img src="https://img.shields.io/badge/Email-chethangowda809%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/chethan-gowda-s"><img src="https://img.shields.io/badge/LinkedIn-ChethanGowda-10b981?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chethan-gowda-s-a4bb2135a/"><img src="https://img.shields.io/badge/LinkedIn-ChethanGowda-10b981?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/csgoowda"><img src="https://img.shields.io/badge/GitHub-csgoowda-10b981?style=flat-square&logo=github&logoColor=white" /></a>
     <a href="https://csgoowda.github.io/chethan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View-10b981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   </p>
