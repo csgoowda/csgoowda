@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+OR-Tools;Industrial+Software+%2B+AI+Integration" />
   </p>
 
+
   <p align="center"><b>Mysuru, Karnataka | ISE Student @ JSS University</b></p>
 
   <p align="center">
