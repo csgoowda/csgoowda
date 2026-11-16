@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Chethan%20Gowda%20S&fontSize=60&fontColor=10b981&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=ChethanGowda%20S&fontSize=60&fontColor=10b981&animation=fadeIn" />
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+OR-Tools;Industrial+Software+%2B+AI+Integration" />
